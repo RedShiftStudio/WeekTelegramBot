@@ -1,0 +1,55 @@
+C:\Games\v\HBG Telegram bot\HBG Telegram bot\bin\Release\HBG Telegram bot.exe.config
+C:\Games\v\HBG Telegram bot\HBG Telegram bot\bin\Release\HBG Telegram bot.exe
+C:\Games\v\HBG Telegram bot\HBG Telegram bot\bin\Release\HBG Telegram bot.pdb
+C:\Games\v\HBG Telegram bot\HBG Telegram bot\bin\Release\IndexRange.dll
+C:\Games\v\HBG Telegram bot\HBG Telegram bot\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Games\v\HBG Telegram bot\HBG Telegram bot\bin\Release\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Games\v\HBG Telegram bot\HBG Telegram bot\bin\Release\Microsoft.Extensions.Configuration.Binder.dll
+C:\Games\v\HBG Telegram bot\HBG Telegram bot\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Games\v\HBG Telegram bot\HBG Telegram bot\bin\Release\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Games\v\HBG Telegram bot\HBG Telegram bot\bin\Release\Microsoft.Extensions.Options.dll
+C:\Games\v\HBG Telegram bot\HBG Telegram bot\bin\Release\Microsoft.Extensions.Primitives.dll
+C:\Games\v\HBG Telegram bot\HBG Telegram bot\bin\Release\Newtonsoft.Json.dll
+C:\Games\v\HBG Telegram bot\HBG Telegram bot\bin\Release\SQLite-net.dll
+C:\Games\v\HBG Telegram bot\HBG Telegram bot\bin\Release\SQLitePCLRaw.batteries_v2.dll
+C:\Games\v\HBG Telegram bot\HBG Telegram bot\bin\Release\SQLitePCLRaw.core.dll
+C:\Games\v\HBG Telegram bot\HBG Telegram bot\bin\Release\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Games\v\HBG Telegram bot\HBG Telegram bot\bin\Release\System.Buffers.dll
+C:\Games\v\HBG Telegram bot\HBG Telegram bot\bin\Release\System.ComponentModel.Annotations.dll
+C:\Games\v\HBG Telegram bot\HBG Telegram bot\bin\Release\System.Data.SQLite.dll
+C:\Games\v\HBG Telegram bot\HBG Telegram bot\bin\Release\System.IO.Pipelines.dll
+C:\Games\v\HBG Telegram bot\HBG Telegram bot\bin\Release\System.Memory.dll
+C:\Games\v\HBG Telegram bot\HBG Telegram bot\bin\Release\System.Net.Http.Json.dll
+C:\Games\v\HBG Telegram bot\HBG Telegram bot\bin\Release\System.Numerics.Vectors.dll
+C:\Games\v\HBG Telegram bot\HBG Telegram bot\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Games\v\HBG Telegram bot\HBG Telegram bot\bin\Release\System.Text.Encodings.Web.dll
+C:\Games\v\HBG Telegram bot\HBG Telegram bot\bin\Release\System.Text.Json.dll
+C:\Games\v\HBG Telegram bot\HBG Telegram bot\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Games\v\HBG Telegram bot\HBG Telegram bot\bin\Release\System.ValueTuple.dll
+C:\Games\v\HBG Telegram bot\HBG Telegram bot\bin\Release\Telegram.Bot.dll
+C:\Games\v\HBG Telegram bot\HBG Telegram bot\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Games\v\HBG Telegram bot\HBG Telegram bot\bin\Release\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Games\v\HBG Telegram bot\HBG Telegram bot\bin\Release\Microsoft.Extensions.Configuration.Binder.xml
+C:\Games\v\HBG Telegram bot\HBG Telegram bot\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Games\v\HBG Telegram bot\HBG Telegram bot\bin\Release\Microsoft.Extensions.Options.xml
+C:\Games\v\HBG Telegram bot\HBG Telegram bot\bin\Release\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+C:\Games\v\HBG Telegram bot\HBG Telegram bot\bin\Release\Microsoft.Extensions.Primitives.xml
+C:\Games\v\HBG Telegram bot\HBG Telegram bot\bin\Release\Newtonsoft.Json.xml
+C:\Games\v\HBG Telegram bot\HBG Telegram bot\bin\Release\SQLite-net.xml
+C:\Games\v\HBG Telegram bot\HBG Telegram bot\bin\Release\System.Buffers.xml
+C:\Games\v\HBG Telegram bot\HBG Telegram bot\bin\Release\System.Data.SQLite.xml
+C:\Games\v\HBG Telegram bot\HBG Telegram bot\bin\Release\System.IO.Pipelines.xml
+C:\Games\v\HBG Telegram bot\HBG Telegram bot\bin\Release\System.Memory.xml
+C:\Games\v\HBG Telegram bot\HBG Telegram bot\bin\Release\System.Net.Http.Json.xml
+C:\Games\v\HBG Telegram bot\HBG Telegram bot\bin\Release\System.Numerics.Vectors.xml
+C:\Games\v\HBG Telegram bot\HBG Telegram bot\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Games\v\HBG Telegram bot\HBG Telegram bot\bin\Release\System.Text.Encodings.Web.xml
+C:\Games\v\HBG Telegram bot\HBG Telegram bot\bin\Release\System.Text.Json.xml
+C:\Games\v\HBG Telegram bot\HBG Telegram bot\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Games\v\HBG Telegram bot\HBG Telegram bot\bin\Release\System.ValueTuple.xml
+C:\Games\v\HBG Telegram bot\HBG Telegram bot\bin\Release\Telegram.Bot.xml
+C:\Games\v\HBG Telegram bot\HBG Telegram bot\obj\Release\HBG Telegram bot.csproj.AssemblyReference.cache
+C:\Games\v\HBG Telegram bot\HBG Telegram bot\obj\Release\HBG Telegram bot.csproj.CoreCompileInputs.cache
+C:\Games\v\HBG Telegram bot\HBG Telegram bot\obj\Release\HBG Tele.72D7AE58.Up2Date
+C:\Games\v\HBG Telegram bot\HBG Telegram bot\obj\Release\HBG Telegram bot.exe
+C:\Games\v\HBG Telegram bot\HBG Telegram bot\obj\Release\HBG Telegram bot.pdb
